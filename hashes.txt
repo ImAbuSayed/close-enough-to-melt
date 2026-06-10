@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Close Enough To Melt
+
+This log tracks the cryptographic history and versioning for the song **Close Enough To Melt** (close-enough-to-melt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T05:06:26.653751 | `v1` | `3023694c695479d46b84f841e0dded5092e5b4c0a0df5163956d6dd6833fe63a` | `d7bbc012048d18acc7ac933f9155f22ba2fd3d30ab47e0fd32cde10fc2d908bc` | `2026-06-11_close-enough-to-melt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
