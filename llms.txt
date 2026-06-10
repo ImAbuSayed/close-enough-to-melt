@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-enough-to-melt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Close Enough To Melt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-enough-to-melt/) |
+| **Get License** | [Commercial Licensing for Close Enough To Melt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-enough-to-melt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3001)
 
 ---
 
