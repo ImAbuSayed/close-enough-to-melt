@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The porch light flickers when you lean in slow
+> A heavy breath and the shadows grow
+> My wandering heart finally meets with yours
+> We leave the world outside these doors
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
